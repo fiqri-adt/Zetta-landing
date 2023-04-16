@@ -42,7 +42,7 @@
           class="card-img-top"
           alt="uiux-icon" />
         <div class="card-body">
-          <h5 class="card-title">Smart Browser</h5>
+          <h5 class="card-title">AI Integration</h5>
           <p class="card-text">
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
